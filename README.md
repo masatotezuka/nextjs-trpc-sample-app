@@ -18,7 +18,7 @@ git clone https://github.com/masatotezuka/nextjs-trpc-sample-app.git
 docker compose up -d
 ```
 
-3. パッケージインストール
+3. パッケージをインストール
 
 ```sh
 pnpm i
@@ -30,7 +30,7 @@ pnpm i
 npx prisma migrate dev
 ```
 
-サーバー起動
+5. サーバー起動
 
 ```sh
 pnpm dev
